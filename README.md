@@ -1,4 +1,4 @@
-# 使用scrapy框架编写的epio.app爬虫工具（懂得都懂）
+# 使用scrapy框架编写的epio.app爬虫工具
 
 ### 安装
 
