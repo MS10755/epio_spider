@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+
+# Define here the models for your scraped items
+#
+# See documentation in:
+# https://doc.scrapy.org/en/latest/topics/items.html
+
+import scrapy
+
+
+class EpioItem(scrapy.Item):
+    gallery_title = scrapy.Field()
+    image_index = scrapy.Field()
+    image_num = scrapy.Field()
+    image_urls = scrapy.Field()
+    images = scrapy.Field()
