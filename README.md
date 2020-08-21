@@ -2,7 +2,7 @@
 
 ### 安装
 
-安装所需库文件（python版本超过3.7可能会报错）
+安装所需库文件（python版本超过3.7 可能会报错）
 
 ```
 pip install -r requirement.txt
