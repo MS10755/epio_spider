@@ -1,5 +1,4 @@
-# 使用scrapy框架编写的epio.app爬虫工具
-
+# 使用scrapy框架编写的epio.app写真爬虫
 ### 安装
 
 安装所需库文件（python版本超过3.7 可能会报错）
