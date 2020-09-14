@@ -20,3 +20,4 @@ python run.py [关键词] [页数]
 ```
 python run.py shika小鹿鹿 1
 ```
+### 如果对您有帮助，请帮我点击右上角的小星星~
